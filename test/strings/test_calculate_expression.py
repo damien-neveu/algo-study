@@ -20,4 +20,4 @@ class TestCalculateExpression(unittest.TestCase):
 if __name__ == "__main__":
     unittest.main()
 
-# python -m discover test/strings -v
+# python -m unittest discover test/strings -v
