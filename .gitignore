@@ -2,6 +2,9 @@
 __pycache__/
 strings/__pycache__
 test/strings/__pycache__
+trees/__pycache__
+arrays/__pycache__
+test/arrays/__pycache__
 *.py[cod]
 *$py.class
 
