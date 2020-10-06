@@ -5,8 +5,10 @@ test/strings/__pycache__
 trees/__pycache__
 arrays/__pycache__
 graphs/__pycache__
+hashtables/__pycache__
 test/arrays/__pycache__
 test/graphs/__pycache__
+test/hashtables/__pycache__
 *.py[cod]
 *$py.class
 *.pyc
