@@ -9,6 +9,14 @@ hashtables/__pycache__
 test/arrays/__pycache__
 test/graphs/__pycache__
 test/hashtables/__pycache__
+advanced/__pycache__
+bsts/__pycache__
+dynamic/__pycache__
+google/__pycache__
+heaps/__pycache__
+stacks/__pycache__
+test/dynamic/__pycache__
+tries/__pycache__
 *.py[cod]
 *$py.class
 *.pyc

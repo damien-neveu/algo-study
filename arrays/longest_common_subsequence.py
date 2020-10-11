@@ -12,4 +12,4 @@ def longest_common_subsequence(a, b, res=[]):
     n = b[0]
     newB = b[1:]
     for v in a:
-
+        continue

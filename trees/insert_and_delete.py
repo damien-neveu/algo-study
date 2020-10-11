@@ -51,6 +51,7 @@ def delete_node(node, val):
     elif node.data < val:
         delete_node(node.right, val)
     else:
+        return
 
 # js solution
 # https://codeshare.io/2WYxQd
